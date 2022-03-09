@@ -1,0 +1,15 @@
+{
+  "name": "passwordverifier",
+  "version": "1.0.1",
+  "description": "Manage Passwords Fields Security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Password",
+    "Security"
+  ],
+  "author": "allen08",
+  "license": "ISC"
+}
